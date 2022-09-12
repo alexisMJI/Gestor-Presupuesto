@@ -2,7 +2,9 @@ import React from 'react'
 
 const NuevoPresupuesto = () => {
   return (
-    <div>NuevoPresupuesto</div>
+    <div>
+        <h2>Nuevo presupuesto</h2>
+    </div>
   )
 }
 
